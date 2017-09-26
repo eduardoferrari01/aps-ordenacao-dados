@@ -1,3 +1,5 @@
+package br.com.app.ordenacao;
+import br.com.app.vetor.Vetor;
 
 public interface Ordena  {
 

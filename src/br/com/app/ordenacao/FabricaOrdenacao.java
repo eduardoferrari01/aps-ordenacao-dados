@@ -1,6 +1,11 @@
+package br.com.app.ordenacao;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
+
+import br.com.app.menu.IMenu;
+import br.com.app.ordenacao.*;
+import br.com.app.vetor.Vetor;
 
 public class FabricaOrdenacao {
 

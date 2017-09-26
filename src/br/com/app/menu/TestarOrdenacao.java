@@ -1,3 +1,4 @@
+package br.com.app.menu;
 
 public class TestarOrdenacao {
 	

@@ -1,4 +1,8 @@
+package br.com.app.menu;
 import java.util.Scanner;
+
+import br.com.app.ordenacao.FabricaOrdenacao;
+import br.com.app.vetor.Vetor;
 
 public class Menu {
 
