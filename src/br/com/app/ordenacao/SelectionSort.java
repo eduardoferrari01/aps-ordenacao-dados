@@ -1,3 +1,8 @@
+package br.com.app.ordenacao;
+
+import br.com.app.menu.IMenu;
+import br.com.app.vetor.Vetor;
+
 public class SelectionSort implements Ordena, IMenu {
 
 	public void ordenarVetor(Vetor vetor) {
